@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.Repository.dll.config
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.Repository.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.Repository.pdb
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.DatabaseContext.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.DatabaseContext.pdb
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\CodeFirstWebApp.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\obj\Debug\CodeFirstWebApp.Repository.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\obj\Debug\CodeFirstWebApp.Repository.dll
+c:\users\user\documents\visual studio 2015\Projects\CodeFirstWebApp\CodeFirstWebApp.Repository\obj\Debug\CodeFirstWebApp.Repository.pdb

@@ -1,0 +1,68 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</head>
+    
+
+@*</head>*@
+<body>
+<div>
+    <div class="container">
+      
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link"></a>
+                @Html.ActionLink("Data Entry","Add")
+            </li>
+            <li class="nav-item">
+                <a class="nav-link"></a>
+                @Html.ActionLink("Search", "GetById")
+            </li>
+            @*<li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+                
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </li>*@
+        </ul>
+    </div>
+
+    <div class="container">
+        <center>
+            <h2>Category Ui</h2></center>
+        <form method="post">
+            <div class="form-group">
+                <label for="Code">Code:</label>
+                <input type="text" class="form-control" id="Code" placeholder="Enter Code" name="Code">
+            </div>
+            <div class="form-group">
+                <label for="Name">Name:</label>
+                <input type="text" class="form-control" id="Name" placeholder="Enter Name" name="Name">
+            </div>
+
+            <button type="submit" class="btn btn-info">Submit</button>
+            @ViewBag.Message
+        </form>
+    </div>
+
+</div>
+</body>
+</html>
